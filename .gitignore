@@ -1,3 +1,5 @@
 node_modules
-ow-app
+ow-app/
 src
+
+package-lock.json
